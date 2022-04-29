@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    background-color: aliceblue;
+    font-family:'Courier New', Courier, monospace;
+    outline: none;
+}
+.container{
+    height: 100vh;
+    display: contents;
+    justify-content: center;
+    align-items: center;
+}
